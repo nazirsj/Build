@@ -1,0 +1,1 @@
+E:\Development\Git\build\src\Reds.Build\Reds.Build\bin\Debug\Reds.Build.exe.config
