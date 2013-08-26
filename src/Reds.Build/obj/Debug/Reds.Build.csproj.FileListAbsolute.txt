@@ -5,3 +5,6 @@ E:\Development\Git\build\src\Reds.Build\bin\Debug\Reds.Build.pdb
 E:\Development\Git\build\src\Reds.Build\obj\Debug\Reds.Build.csprojResolveAssemblyReference.cache
 E:\Development\Git\build\src\Reds.Build\obj\Debug\Reds.Build.exe
 E:\Development\Git\build\src\Reds.Build\obj\Debug\Reds.Build.pdb
+C:\Git\test\build\src\Reds.Build\bin\Debug\Reds.Build.exe.config
+C:\Git\test\build\src\Reds.Build\obj\Debug\Reds.Build.exe
+C:\Git\test\build\src\Reds.Build\obj\Debug\Reds.Build.pdb
