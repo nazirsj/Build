@@ -10,6 +10,8 @@ namespace Reds.Build
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello worlds");
+            Console.ReadLine();
         }
     }
 }
