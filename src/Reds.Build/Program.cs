@@ -10,6 +10,7 @@ namespace Reds.Build
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("24397 commit");
             Console.WriteLine("24397 change");
             Console.WriteLine("Hello worlds");
             Console.ReadLine();
